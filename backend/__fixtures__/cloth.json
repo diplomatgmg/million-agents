@@ -1,0 +1,2111 @@
+[
+  {
+    "model": "clothes.cloth",
+    "pk": 1,
+    "fields": {
+      "article": "vt236",
+      "name": "Барби костюмная бежевый",
+      "description": "Материал принадлежит костюмно-плательной группе. Ткань имеет матовую поверхность, очень нежная на ощупь. Материал состоит из синтетических волокон, в основном, из полиэстера и спандекса. Последний может быть заменен на эластан. Наличие в составе только синтетического волокна говорит об устойчивости к любого вида деформации, но, в добавок к этому, о низкой гигроскопичности и воздухопроницаемости.",
+      "color": "бежевый",
+      "width": "1,5м",
+      "composition": "95% пэ 5%эластан",
+      "density": "220г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/bbz1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/bbz3-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/bbz2-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt232-vt233-vt234-vt235-vt236-vt237-vt238-vt239-vt240-vt241.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 2,
+    "fields": {
+      "article": "vt237",
+      "name": "Барби костюмная белый",
+      "description": "Материал принадлежит костюмно-плательной группе. Ткань имеет матовую поверхность, очень нежная на ощупь. Материал состоит из синтетических волокон, в основном, из полиэстера и спандекса. Последний может быть заменен на эластан. Наличие в составе только синтетического волокна говорит об устойчивости к любого вида деформации, но, в добавок к этому, о низкой гигроскопичности и воздухопроницаемости.",
+      "color": "белый",
+      "width": "1,5м",
+      "composition": "95% пэ 5%эластан",
+      "density": "220г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/bb1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/bb3-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/bb2-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt232-vt233-vt234-vt235-vt236-vt237-vt238-vt239-vt240-vt241.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 3,
+    "fields": {
+      "article": "vt235",
+      "name": "Барби костюмная горький шоколад",
+      "description": "Материал принадлежит костюмно-плательной группе. Ткань имеет матовую поверхность, очень нежная на ощупь. Материал состоит из синтетических волокон, в основном, из полиэстера и спандекса. Последний может быть заменен на эластан. Наличие в составе только синтетического волокна говорит об устойчивости к любого вида деформации, но, в добавок к этому, о низкой гигроскопичности и воздухопроницаемости.",
+      "color": "горький шоколад",
+      "width": "1,5м",
+      "composition": "95% пэ 5%эластан",
+      "density": "220г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/bk2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/bk1-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/bk3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt232-vt233-vt234-vt235-vt236-vt237-vt238-vt239-vt240-vt241.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 4,
+    "fields": {
+      "article": "vt234",
+      "name": "Барби костюмная зеленый",
+      "description": "Материал принадлежит костюмно-плательной группе. Ткань имеет матовую поверхность, очень нежная на ощупь. Материал состоит из синтетических волокон, в основном, из полиэстера и спандекса. Последний может быть заменен на эластан. Наличие в составе только синтетического волокна говорит об устойчивости к любого вида деформации, но, в добавок к этому, о низкой гигроскопичности и воздухопроницаемости.",
+      "color": "зеленый",
+      "width": "1,5м",
+      "composition": "95% пэ 5%эластан",
+      "density": "220г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/bz1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/bz2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/bz3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt232-vt233-vt234-vt235-vt236-vt237-vt238-vt239-vt240-vt241.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 5,
+    "fields": {
+      "article": "vt239",
+      "name": "Барби костюмная красный",
+      "description": "Материал принадлежит костюмно-плательной группе. Ткань имеет матовую поверхность, очень нежная на ощупь. Материал состоит из синтетических волокон, в основном, из полиэстера и спандекса. Последний может быть заменен на эластан. Наличие в составе только синтетического волокна говорит об устойчивости к любого вида деформации, но, в добавок к этому, о низкой гигроскопичности и воздухопроницаемости.",
+      "color": "красный",
+      "width": "1,5м",
+      "composition": "95% пэ 5%эластан",
+      "density": "220г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/bkras2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/bkras1-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/bkras3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt232-vt233-vt234-vt235-vt236-vt237-vt238-vt239-vt240-vt241.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 6,
+    "fields": {
+      "article": "vt238",
+      "name": "Барби костюмная кремовый",
+      "description": "Материал принадлежит костюмно-плательной группе. Ткань имеет матовую поверхность, очень нежная на ощупь. Материал состоит из синтетических волокон, в основном, из полиэстера и спандекса. Последний может быть заменен на эластан. Наличие в составе только синтетического волокна говорит об устойчивости к любого вида деформации, но, в добавок к этому, о низкой гигроскопичности и воздухопроницаемости.",
+      "color": "кремовый",
+      "width": "1,5м",
+      "composition": "95% пэ 5%эластан",
+      "density": "220г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/bezhb2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/bezhb1-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/bezhb3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt232-vt233-vt234-vt235-vt236-vt237-vt238-vt239-vt240-vt241.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 7,
+    "fields": {
+      "article": "vt233",
+      "name": "Барби костюмная лаванда",
+      "description": "Материал принадлежит костюмно-плательной группе. Ткань имеет матовую поверхность, очень нежная на ощупь. Материал состоит из синтетических волокон, в основном, из полиэстера и спандекса. Последний может быть заменен на эластан. Наличие в составе только синтетического волокна говорит об устойчивости к любого вида деформации, но, в добавок к этому, о низкой гигроскопичности и воздухопроницаемости.",
+      "color": "лаванда",
+      "width": "1,5м",
+      "composition": "95% пэ 5%эластан",
+      "density": "220г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/bl2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/bl1-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/bl3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt232-vt233-vt234-vt235-vt236-vt237-vt238-vt239-vt240-vt241.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 8,
+    "fields": {
+      "article": "vt232",
+      "name": "Барби костюмная розовый",
+      "description": "Материал принадлежит костюмно-плательной группе. Ткань имеет матовую поверхность, очень нежная на ощупь. Материал состоит из синтетических волокон, в основном, из полиэстера и спандекса. Последний может быть заменен на эластан. Наличие в составе только синтетического волокна говорит об устойчивости к любого вида деформации, но, в добавок к этому, о низкой гигроскопичности и воздухопроницаемости.",
+      "color": "розовый",
+      "width": "1,5м",
+      "composition": "95% пэ 5%эластан",
+      "density": "220г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/br1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/br2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/br3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt232-vt233-vt234-vt235-vt236-vt237-vt238-vt239-vt240-vt241.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 9,
+    "fields": {
+      "article": "vt240",
+      "name": "Барби костюмная серо-мятный",
+      "description": "Материал принадлежит костюмно-плательной группе. Ткань имеет матовую поверхность, очень нежная на ощупь. Материал состоит из синтетических волокон, в основном, из полиэстера и спандекса. Последний может быть заменен на эластан. Наличие в составе только синтетического волокна говорит об устойчивости к любого вида деформации, но, в добавок к этому, о низкой гигроскопичности и воздухопроницаемости.",
+      "color": "серо-мятный",
+      "width": "1,5м",
+      "composition": "95% пэ 5%эластан",
+      "density": "220г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/bo2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/bo1-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/bo3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt232-vt233-vt234-vt235-vt236-vt237-vt238-vt239-vt240-vt241.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 10,
+    "fields": {
+      "article": "vt241",
+      "name": "Барби костюмная: фиолетовый",
+      "description": "Материал принадлежит костюмно-плательной группе. Ткань имеет матовую поверхность, очень нежная на ощупь. Материал состоит из синтетических волокон, в основном, из полиэстера и спандекса. Последний может быть заменен на эластан. Наличие в составе только синтетического волокна говорит об устойчивости к любого вида деформации, но, в добавок к этому, о низкой гигроскопичности и воздухопроницаемости.",
+      "color": "фиолетовый",
+      "width": "1,5м",
+      "composition": "95% пэ 5%эластан",
+      "density": "220г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/bf1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/bf2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/bf3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt232-vt233-vt234-vt235-vt236-vt237-vt238-vt239-vt240-vt241.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 11,
+    "fields": {
+      "article": "vt206",
+      "name": "Калифорния бежевый",
+      "description": "Данная ткань калифорния представляет собой  смесь синтетических материалов, которые обеспечивают комфорт, эластичность и хорошую посадку. Этот тип ткани часто используется для пошива одежды, такой как брюки, блузы и др. Спандекс и эластан — это эластичные волокна, которые придают ткани высокую степень растяжимости, что делает ее удобной для ношения. Полиэстер также добавляется в эту смесь для усиления прочности и сохранения формы изделий. Такая ткань обычно хорошо сохраняет цвет и долго сохраняет свою форму после стирки.",
+      "color": "бежевый",
+      "width": "1,5м",
+      "composition": "85% полиэстер,10% спандекс, 5% эластан",
+      "density": "170г/м2",
+      "length": "45+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kbezh2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kbezh1-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kbezh3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/kalifobshh.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 12,
+    "fields": {
+      "article": "vt205",
+      "name": "Калифорния белый",
+      "description": "Данная ткань представляет собой  смесь синтетических материалов, которые обеспечивают комфорт, эластичность и хорошую посадку. Этот тип ткани часто используется для пошива одежды, такой как брюки, блузы и др. Спандекс и эластан — это эластичные волокна, которые придают ткани высокую степень растяжимости, что делает ее удобной для ношения. Полиэстер также добавляется в эту смесь для усиления прочности и сохранения формы изделий. Такая ткань обычно хорошо сохраняет цвет и долго сохраняет свою форму после стирки.",
+      "color": "белый",
+      "width": "1,5м",
+      "composition": "85% полиэстер,10% спандекс, 5% эластан",
+      "density": "170г/м2",
+      "length": "45+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kb2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kb1-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kb3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/kalifobshh.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 13,
+    "fields": {
+      "article": "vt202",
+      "name": "Калифорния голубой",
+      "description": "Данная ткань представляет собой  смесь синтетических материалов, которые обеспечивают комфорт, эластичность и хорошую посадку. Этот тип ткани часто используется для пошива одежды, такой как брюки, блузы и др. Спандекс и эластан — это эластичные волокна, которые придают ткани высокую степень растяжимости, что делает ее удобной для ношения. Полиэстер также добавляется в эту смесь для усиления прочности и сохранения формы изделий. Такая ткань обычно хорошо сохраняет цвет и долго сохраняет свою форму после стирки.",
+      "color": "голубой",
+      "width": "1,5м",
+      "composition": "85% полиэстер,10% спандекс, 5% эластан",
+      "density": "170г/м2",
+      "length": "45+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kg3-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kg1-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kg2-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/kalifobshh.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 14,
+    "fields": {
+      "article": "vt203",
+      "name": "Калифорния зеленый",
+      "description": "Данная ткань представляет собой  смесь синтетических материалов, которые обеспечивают комфорт, эластичность и хорошую посадку. Этот тип ткани часто используется для пошива одежды, такой как брюки, блузы и др. Спандекс и эластан — это эластичные волокна, которые придают ткани высокую степень растяжимости, что делает ее удобной для ношения. Полиэстер также добавляется в эту смесь для усиления прочности и сохранения формы изделий. Такая ткань обычно хорошо сохраняет цвет и долго сохраняет свою форму после стирки.",
+      "color": "зеленый",
+      "width": "1,5м",
+      "composition": "85% полиэстер,10% спандекс, 5% эластан",
+      "density": "170г/м2",
+      "length": "45+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kgz2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kgz3-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kgz1-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/kalifobshh.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 15,
+    "fields": {
+      "article": "vt204",
+      "name": "Калифорния серый",
+      "description": "Данная ткань представляет собой  смесь синтетических материалов, которые обеспечивают комфорт, эластичность и хорошую посадку. Этот тип ткани часто используется для пошива одежды, такой как брюки, блузы и др. Спандекс и эластан — это эластичные волокна, которые придают ткани высокую степень растяжимости, что делает ее удобной для ношения. Полиэстер также добавляется в эту смесь для усиления прочности и сохранения формы изделий. Такая ткань обычно хорошо сохраняет цвет и долго сохраняет свою форму после стирки.",
+      "color": "серый",
+      "width": "1,5м",
+      "composition": "85% полиэстер,10% спандекс, 5% эластан",
+      "density": "170г/м2",
+      "length": "45+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/ks2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/ks1-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/ks3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/kalifobshh.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 16,
+    "fields": {
+      "article": "vt45616",
+      "name": "Кашемир",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "бежевый",
+      "width": "165 см",
+      "composition": "",
+      "density": "",
+      "length": "40м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2bezh1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1bezh-1-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3bezh-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/kashobrbezh.jpg"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 17,
+    "fields": {
+      "article": "vt45610",
+      "name": "Кашемир",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "черный",
+      "width": "165 см",
+      "composition": "",
+      "density": "",
+      "length": "40м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1chern-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2chern-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3chern-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/db1b99a976059a920c0f40f486902d94.jpg"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 18,
+    "fields": {
+      "article": "vt45613",
+      "name": "Кашемир",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "серо-коричневый",
+      "width": "165 см",
+      "composition": "",
+      "density": "",
+      "length": "40м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1serkor-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2serkor-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3serkor-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/7a737c2685e8d998e1dd5fa03ccd6eec.jpg"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 19,
+    "fields": {
+      "article": "vt45615",
+      "name": "Кашемир",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "серо-бежевый",
+      "width": "165 см",
+      "composition": "",
+      "density": "",
+      "length": "40м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1serbezh-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2serbezh-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3serbezh-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/88c2b161d9c26a067eb02e02ed90e164.jpg"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 20,
+    "fields": {
+      "article": "vt45618",
+      "name": "Кашемир",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "пепельно-розовый",
+      "width": "165 см",
+      "composition": "",
+      "density": "",
+      "length": "40м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1roz-1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2roz-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3roz-scaled.jpg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 21,
+    "fields": {
+      "article": "vt45612",
+      "name": "Кашемир",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "темно-зеленый",
+      "width": "165 см",
+      "composition": "",
+      "density": "",
+      "length": "40м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1ze-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2zel-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3zel-scaled.jpg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 22,
+    "fields": {
+      "article": "vt45611",
+      "name": "Кашемир",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "темно-синий",
+      "width": "165 см",
+      "composition": "",
+      "density": "",
+      "length": "40м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1sinn-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2sinn-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3sinn-scaled.jpg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 23,
+    "fields": {
+      "article": "vt45617",
+      "name": "Кашемир",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "молочный",
+      "width": "165 см",
+      "composition": "",
+      "density": "",
+      "length": "40м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1bel-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2bel-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3bel-scaled.jpg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 24,
+    "fields": {
+      "article": "vt45614",
+      "name": "Кашемир",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "коричнево-зеленый",
+      "width": "165 см",
+      "composition": "",
+      "density": "",
+      "length": "40м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1kor-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2kor-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3kor-scaled.jpg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 25,
+    "fields": {
+      "article": "vt4511",
+      "name": "Кашемир в клетку с начесом",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "в крупную синюю клетку",
+      "width": "150 см",
+      "composition": "",
+      "density": "505м2.",
+      "length": "50м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1sin-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2sin-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3sin-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/orig.webp"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 26,
+    "fields": {
+      "article": "vt4510",
+      "name": "Кашемир в клетку с начесом желтый",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "в крупную желтую клетку",
+      "width": "150 см",
+      "composition": "",
+      "density": "505м2.",
+      "length": "50м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1zhelt-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2zhelt-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3zhelt-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/kashobr.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 27,
+    "fields": {
+      "article": "vt4512",
+      "name": "Кашемир в клетку с начесом серый",
+      "description": "Кашемир — это ткань из вискозы. Ткань тёплая и мягкая. Кашемир активно используют в изготовлении такой одежды, как: пальто, джемперов, костюмов, жакетов, юбок, брюк, головных уборов, шарфов и шали, и др. К основным достоинствам кашемира стоит отнести: мягкость, низкие показатели теплопроводности, благодаря которым достигается согревающая особенность.",
+      "color": "в крупную серую клетку",
+      "width": "150 см",
+      "composition": "",
+      "density": "505м2.",
+      "length": "50м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash1cher.png",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash2cher.png",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/kash3cher.png",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/kashobrcher.jpg"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 28,
+    "fields": {
+      "article": "vt210",
+      "name": "Лакоста бежевый",
+      "description": "Лакоста часто используется для пошива различных видов одежды, таких как блузы, платья, юбки, рубашки и брюки, это мягкая, дышащая и удобная ткань, которая обычно подходит для повседневной одежды и формальных нарядов. Полиэстер обеспечивает прочность и долговечность ткани, а вискоза добавляет мягкость, приятный на ощупь текстурный эффект и способствует хорошей вентиляции, что делает ткань более дышащей и комфортной для ношения.",
+      "color": "бежевый",
+      "width": "1,5м",
+      "composition": "90% полиэстер,10% вискоза",
+      "density": "180г/м2",
+      "length": "60+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/ltb1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/ltb2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/ltb3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/me.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 29,
+    "fields": {
+      "article": "vt209",
+      "name": "Лакоста белый",
+      "description": "Лакоста часто используется для пошива различных видов одежды, таких как блузы, платья, юбки, рубашки и брюки, это мягкая, дышащая и удобная ткань, которая обычно подходит для повседневной одежды и формальных нарядов. Полиэстер обеспечивает прочность и долговечность ткани, а вискоза добавляет мягкость, приятный на ощупь текстурный эффект и способствует хорошей вентиляции, что делает ткань более дышащей и комфортной для ношения.",
+      "color": "белый",
+      "width": "1,5м",
+      "composition": "90% полиэстер,10% вискоза",
+      "density": "180г/м2",
+      "length": "60+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/lb1-4-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/lb2-4-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/lb3-4-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/me.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 30,
+    "fields": {
+      "article": "vt207",
+      "name": "Лакоста серо-бежевый",
+      "description": "Лакоста часто используется для пошива различных видов одежды, таких как блузы, платья, юбки, рубашки и брюки, это мягкая, дышащая и удобная ткань, которая обычно подходит для повседневной одежды и формальных нарядов. Полиэстер обеспечивает прочность и долговечность ткани, а вискоза добавляет мягкость, приятный на ощупь текстурный эффект и способствует хорошей вентиляции, что делает ткань более дышащей и комфортной для ношения.",
+      "color": "серо-бежевый",
+      "width": "1,5м",
+      "composition": "90% полиэстер,10% вискоза",
+      "density": "180г/м2",
+      "length": "60+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/lbezh3-2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/lbezh2-2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/lbezh1-2-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/me.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 31,
+    "fields": {
+      "article": "vt216",
+      "name": "Лакоста серый",
+      "description": "Лакоста часто используется для пошива различных видов одежды, таких как блузы, платья, юбки, рубашки и брюки, это мягкая, дышащая и удобная ткань, которая обычно подходит для повседневной одежды и формальных нарядов. Полиэстер обеспечивает прочность и долговечность ткани, а вискоза добавляет мягкость, приятный на ощупь текстурный эффект и способствует хорошей вентиляции, что делает ткань более дышащей и комфортной для ношения.",
+      "color": "серый",
+      "width": "1,5м",
+      "composition": "90% полиэстер,10% вискоза",
+      "density": "180г/м2",
+      "length": "60+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/ls3-2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/ls2-2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/ls1-2-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/me.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 32,
+    "fields": {
+      "article": "vt208",
+      "name": "Лакоста черный",
+      "description": "Лакоста часто используется для пошива различных видов одежды, таких как блузы, платья, юбки, рубашки и брюки, это мягкая, дышащая и удобная ткань, которая обычно подходит для повседневной одежды и формальных нарядов. Полиэстер обеспечивает прочность и долговечность ткани, а вискоза добавляет мягкость, приятный на ощупь текстурный эффект и способствует хорошей вентиляции, что делает ткань более дышащей и комфортной для ношения.",
+      "color": "черный",
+      "width": "1,5м",
+      "composition": "90% полиэстер,10% вискоза",
+      "density": "180г/м2",
+      "length": "60+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/lch1-2-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/lch2-2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/lch3-2-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/me.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 33,
+    "fields": {
+      "article": "vt669",
+      "name": "Манго(Сингапур) бежевый",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "бежевый",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5124-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5125-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 34,
+    "fields": {
+      "article": "vt688",
+      "name": "Манго(Сингапур) Берлинская лазурь",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "берлинская лазурь",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/sin-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/sin21-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 35,
+    "fields": {
+      "article": "vt686",
+      "name": "Манго(Сингапур) бледно-бирюзовый",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "бледно-бирюзовый",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/myat1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/myat2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 36,
+    "fields": {
+      "article": "vt682",
+      "name": "Манго(Сингапур) бордо",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "бордо",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5156-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5157-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 37,
+    "fields": {
+      "article": "vt685",
+      "name": "Манго(Сингапур) васильковый",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "васильковый",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/gol1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/gol2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 38,
+    "fields": {
+      "article": "vt672",
+      "name": "Манго(Сингапур) желтый",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "желтый",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5133-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5134-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 39,
+    "fields": {
+      "article": "vt677",
+      "name": "Манго(Сингапур) зеленый",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "зеленый",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5144-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5145-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 40,
+    "fields": {
+      "article": "vt676",
+      "name": "Манго(Сингапур) капучино",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "капучино",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5142.png",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5143.png",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 41,
+    "fields": {
+      "article": "vt679",
+      "name": "Манго(Сингапур) коралловый",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "коралловый",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5148-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5161-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 42,
+    "fields": {
+      "article": "vt684",
+      "name": "Манго(Сингапур) красный",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "красный",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5160-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5161-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 43,
+    "fields": {
+      "article": "vt687",
+      "name": "Манго(Сингапур) олива",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "олива 2",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/ol1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/ol2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 44,
+    "fields": {
+      "article": "vt681",
+      "name": "Манго(Сингапур) персиковый",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "персиковый",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5152-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5153-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 45,
+    "fields": {
+      "article": "vt683",
+      "name": "Манго(Сингапур) розовый",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "розовый",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5158-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5159-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 46,
+    "fields": {
+      "article": "vt671",
+      "name": "Манго(Сингапур) серо-синий",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "серо-синий",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5135-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5136-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 47,
+    "fields": {
+      "article": "vt670",
+      "name": "Манго(Сингапур) темно-синий",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "темно-синий",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5126-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5127-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 48,
+    "fields": {
+      "article": "vt675",
+      "name": "Манго(Сингапур) терракотовый",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "терракотовый",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5142-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5143-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 49,
+    "fields": {
+      "article": "vt678",
+      "name": "Манго(Сингапур) терракотовый",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "терракотовый",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5146-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5147-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 50,
+    "fields": {
+      "article": "vt680",
+      "name": "Манго(Сингапур) фисташка",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "фисташка",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5150-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/img_5151-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 51,
+    "fields": {
+      "article": "vt689",
+      "name": "Манго(Сингапур) черный",
+      "description": "Манго креп(Сингапур) — плотная ткань с шероховатой поверхностью, приятная на ощупь, эластичная. Материал не просвечивает, хорошо драпируется, держит форму. Фактура достигается путем использования в процессе ткачества нитей, перекрученных в двух направлениях.",
+      "color": "черный",
+      "width": "150см",
+      "composition": "97%пэ, 3%спандекс",
+      "density": "240г/м2.пог",
+      "length": "100м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2024/01/ch1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2024/01/ch2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2024/01/photo1653171935.jpeg",
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 52,
+    "fields": {
+      "article": "vt230",
+      "name": "Муслин белый",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "белый",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/mb1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/mb2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/mb3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 53,
+    "fields": {
+      "article": "vt228",
+      "name": "Муслин зеленый",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "зеленый",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/mz1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/mz2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/mz3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 54,
+    "fields": {
+      "article": "vt223",
+      "name": "Муслин карамель",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "карамель",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/mk1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/mk2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/mk3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 55,
+    "fields": {
+      "article": "vt225",
+      "name": "Муслин лаванда",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "лаванда",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/mf1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/mf2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/mf3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 56,
+    "fields": {
+      "article": "vt229",
+      "name": "Муслин мята",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "мята",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/mmyata1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/mmyata2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/mmyata3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 57,
+    "fields": {
+      "article": "vt226",
+      "name": "Муслин персик",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "персик",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/mbezh1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/mbezh2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/mbezh3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 58,
+    "fields": {
+      "article": "vt231",
+      "name": "Муслин прозрачно-желтый",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "прозрачно-желтый",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/msb1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/msb3-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/msb2-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 59,
+    "fields": {
+      "article": "vt224",
+      "name": "Муслин пудровый",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "пудровый",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/mpr1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/mpr2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/mpr3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 60,
+    "fields": {
+      "article": "vt227",
+      "name": "Муслин розовый",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "розовый",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/mr1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/mr2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/mr3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 61,
+    "fields": {
+      "article": "vt222",
+      "name": "Муслин серый",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "серый",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/ms1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/ms3-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/ms2-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 62,
+    "fields": {
+      "article": "vt221",
+      "name": "Муслин черный",
+      "description": "Муслин — это очень тонкая ткань, которая отличается легкостью и воздушностью. Это 100% натуральный хлопковый материал, получаемый из миткаля (хлопчатобумажной ткани) путем мягкой отделки и отбеливания. Ткань муслин хорошо пропускает воздух, впитывает влагу и приятна к коже. Из нее часто шьют детскую одежду, а также летние невесомые вещи, например для пляжа. Муслин получается путем частого полотняного переплетения нитей, он имеет воздушную жатую структуру. Они экологичные, невероятно мягкие на ощупь, но при этом практичные и износостойкие.",
+      "color": "черный",
+      "width": "1,4м",
+      "composition": "100% хлопок",
+      "density": "110г/м2",
+      "length": "100+-м",
+      "country": "китай",
+      "image_url_1": "https://vento-tkani.kg/wp-content/uploads/2023/09/mch1-scaled.jpg",
+      "image_url_2": "https://vento-tkani.kg/wp-content/uploads/2023/09/mch2-scaled.jpg",
+      "image_url_3": "https://vento-tkani.kg/wp-content/uploads/2023/09/mch3-scaled.jpg",
+      "image_url_4": "https://vento-tkani.kg/wp-content/uploads/2023/09/vt221-vt222-vt223-vt224-vt225-vt226-vt227-vt228-vt229-vt230-vt231.png"
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 63,
+    "fields": {
+      "article": "бязь белоземельнаябязь белоземельная140 м2150 см",
+      "name": "Бязь Белоземельная",
+      "description": "Бязь белоземельная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-belozemelnaya-e1632372220289.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 64,
+    "fields": {
+      "article": "бязь белоземельнаябязь грунтовая140 м2150 см",
+      "name": "Бязь Белоземельная",
+      "description": "Бязь грунтовая",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-belozemelnaya-e1632372220289.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 65,
+    "fields": {
+      "article": "джинс суровыйджинс 34×34 суровый170 м2172 см",
+      "name": "Джинс суровый",
+      "description": "Джинс 34×34 суровый",
+      "color": "",
+      "width": "172 см",
+      "composition": "",
+      "density": "170 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/dzhins-surovyj-e1632378696464.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 66,
+    "fields": {
+      "article": "джинс суровыйджинс 20×20 суровый220 м2172 см",
+      "name": "Джинс суровый",
+      "description": "Джинс 20×20 суровый",
+      "color": "",
+      "width": "172 см",
+      "composition": "",
+      "density": "220 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/dzhins-surovyj-e1632378696464.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 67,
+    "fields": {
+      "article": "бязь отбеленнаябязь отбеленная120 м2150 см",
+      "name": "Бязь Отбеленная",
+      "description": "Бязь отбеленная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-otbelennaya-e1632374229599.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 68,
+    "fields": {
+      "article": "бязь отбеленнаябязь отбеленная140 м2150 см",
+      "name": "Бязь Отбеленная",
+      "description": "Бязь отбеленная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-otbelennaya-e1632374229599.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 69,
+    "fields": {
+      "article": "бязь отбеленнаябязь отбеленная150 м2150 см",
+      "name": "Бязь Отбеленная",
+      "description": "Бязь отбеленная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "150 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-otbelennaya-e1632374229599.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 70,
+    "fields": {
+      "article": "миткаль отбеленнаямиткаль отбеленная118 м2220 см",
+      "name": "Миткаль отбеленная",
+      "description": "Миткаль отбеленная",
+      "color": "",
+      "width": "220 см",
+      "composition": "",
+      "density": "118 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/mitkal-otbelennaya-e1632385039797.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 71,
+    "fields": {
+      "article": "миткаль отбеленнаямиткаль отбеленная115 м2150 см",
+      "name": "Миткаль отбеленная",
+      "description": "Миткаль отбеленная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "115 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/mitkal-otbelennaya-e1632385039797.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 72,
+    "fields": {
+      "article": "миткаль суроваямиткаль суровая118 м2241 см",
+      "name": "Миткаль Суровая",
+      "description": "Миткаль суровая",
+      "color": "",
+      "width": "241 см",
+      "composition": "",
+      "density": "118 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/mitkal-surovaya-e1632385655777.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 73,
+    "fields": {
+      "article": "миткаль с нанесением цифровой печати (ms)миткаль цифровая печать115 м2150 см",
+      "name": "Миткаль с нанесением цифровой печати (MS)",
+      "description": "Миткаль цифровая печать",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "115 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/mitkal-ms-e1632379381740.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 74,
+    "fields": {
+      "article": "бязь с нанесением цифровой печати (ms)бязь (ms)140 м2150 см",
+      "name": "Бязь с нанесением цифровой печати (MS)",
+      "description": "Бязь (MS)",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-ms-e1632373999876.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 75,
+    "fields": {
+      "article": "джинс гладкокрашенныйджинс 34×34 гладкокрашенный170 м2155 см",
+      "name": "Джинс гладкокрашенный",
+      "description": "Джинс 34×34 гладкокрашенный",
+      "color": "",
+      "width": "155 см",
+      "composition": "",
+      "density": "170 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/dzhins-gladkokrashennyj-e1632378337211.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 76,
+    "fields": {
+      "article": "джинс гладкокрашенныйджинс 20×20 гладкокрашенный220 м2155 см",
+      "name": "Джинс гладкокрашенный",
+      "description": "Джинс 20×20 гладкокрашенный",
+      "color": "",
+      "width": "155 см",
+      "composition": "",
+      "density": "220 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/dzhins-gladkokrashennyj-e1632378337211.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 77,
+    "fields": {
+      "article": "джинс с нанесением цифровой печати (ms)джинс 34×34 цифровая ms печать170 м2155 см",
+      "name": "Джинс с нанесением цифровой печати (MS)",
+      "description": "Джинс 34×34 цифровая MS печать",
+      "color": "",
+      "width": "155 см",
+      "composition": "",
+      "density": "170 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/dzhins-ms-e1632378541263.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 78,
+    "fields": {
+      "article": "джинс с нанесением цифровой печати (ms)джинс 34×34 гладкокрашенный170 м2155 см",
+      "name": "Джинс с нанесением цифровой печати (MS)",
+      "description": "Джинс 34×34 гладкокрашенный",
+      "color": "",
+      "width": "155 см",
+      "composition": "",
+      "density": "170 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/dzhins-ms-e1632378541263.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 79,
+    "fields": {
+      "article": "джинс с нанесением цифровой печати (ms)джинс 20×20 цифровая ms печать220 м2155 см",
+      "name": "Джинс с нанесением цифровой печати (MS)",
+      "description": "Джинс 20×20 цифровая MS печать",
+      "color": "",
+      "width": "155 см",
+      "composition": "",
+      "density": "220 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/dzhins-ms-e1632378541263.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 80,
+    "fields": {
+      "article": "фланель отбеленнаяфланель отбеленная без начёса160 м2150 см",
+      "name": "Фланель отбеленная",
+      "description": "Фланель отбеленная без начёса",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "160 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/flanel-otbelennaya-e1632391341889.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 81,
+    "fields": {
+      "article": "фланель отбеленнаяфланель отбеленная с начёсом160 м2150 см",
+      "name": "Фланель отбеленная",
+      "description": "Фланель отбеленная с начёсом",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "160 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/flanel-otbelennaya-e1632391341889.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 82,
+    "fields": {
+      "article": "бязь с нанесением ротационной печатибязь ротация120 м2150 см",
+      "name": "Бязь с нанесением ротационной печати",
+      "description": "Бязь ротация",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz_s_naneseniem_rotaczionnoj_pechati-e1632375171307.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 83,
+    "fields": {
+      "article": "бязь с нанесением ротационной печатибязь гладкокрашенная140 м2150 см",
+      "name": "Бязь с нанесением ротационной печати",
+      "description": "Бязь гладкокрашенная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz_s_naneseniem_rotaczionnoj_pechati-e1632375171307.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 84,
+    "fields": {
+      "article": "бязь с нанесением ротационной печатибязь ротация150 м2150 см",
+      "name": "Бязь с нанесением ротационной печати",
+      "description": "Бязь ротация",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "150 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz_s_naneseniem_rotaczionnoj_pechati-e1632375171307.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 85,
+    "fields": {
+      "article": "бязь гладкокрашеннаябязь гладкокрашенная140 м2150 см",
+      "name": "Бязь Гладкокрашенная",
+      "description": "Бязь гладкокрашенная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-gladkokrashennaya-e1632373593117.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 86,
+    "fields": {
+      "article": "бязь гладкокрашеннаябязь гладкокрашенная150 м2150 см",
+      "name": "Бязь Гладкокрашенная",
+      "description": "Бязь гладкокрашенная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "150 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-gladkokrashennaya-e1632373593117.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 87,
+    "fields": {
+      "article": "бязь гладкокрашеннаябязь гладкокрашенная120 м2150 см",
+      "name": "Бязь Гладкокрашенная",
+      "description": "Бязь гладкокрашенная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-gladkokrashennaya-e1632373593117.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 88,
+    "fields": {
+      "article": "ситец (фея) гладкокрашенный и отбеленныйситец гладкокрашенный120 м2220 см",
+      "name": "Ситец (Фея) гладкокрашенный и отбеленный",
+      "description": "Ситец гладкокрашенный",
+      "color": "",
+      "width": "220 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/sitecz_gladkokrashennyj_i_otbelennyj-e1632390388489.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 89,
+    "fields": {
+      "article": "ситец (фея) гладкокрашенный и отбеленныйситец гладкокрашенный135 м2220 см",
+      "name": "Ситец (Фея) гладкокрашенный и отбеленный",
+      "description": "Ситец гладкокрашенный",
+      "color": "",
+      "width": "220 см",
+      "composition": "",
+      "density": "135 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/sitecz_gladkokrashennyj_i_otbelennyj-e1632390388489.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 90,
+    "fields": {
+      "article": "ситец (фея) гладкокрашенный и отбеленныйситец гладкокрашенный140 м2220 см",
+      "name": "Ситец (Фея) гладкокрашенный и отбеленный",
+      "description": "Ситец гладкокрашенный",
+      "color": "",
+      "width": "220 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/sitecz_gladkokrashennyj_i_otbelennyj-e1632390388489.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 91,
+    "fields": {
+      "article": "ситец (фея) гладкокрашенный и отбеленныйситец отбеленный120 м2220 см",
+      "name": "Ситец (Фея) гладкокрашенный и отбеленный",
+      "description": "Ситец отбеленный",
+      "color": "",
+      "width": "220 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/sitecz_gladkokrashennyj_i_otbelennyj-e1632390388489.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 92,
+    "fields": {
+      "article": "ситец (фея) гладкокрашенный и отбеленныйситец отбеленный135 м2220 см",
+      "name": "Ситец (Фея) гладкокрашенный и отбеленный",
+      "description": "Ситец отбеленный",
+      "color": "",
+      "width": "220 см",
+      "composition": "",
+      "density": "135 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/sitecz_gladkokrashennyj_i_otbelennyj-e1632390388489.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 93,
+    "fields": {
+      "article": "ситец (фея) гладкокрашенный и отбеленныйситец отбеленный140 м2220 см",
+      "name": "Ситец (Фея) гладкокрашенный и отбеленный",
+      "description": "Ситец отбеленный",
+      "color": "",
+      "width": "220 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/sitecz_gladkokrashennyj_i_otbelennyj-e1632390388489.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 94,
+    "fields": {
+      "article": "ситец (фея) суровыйситец суровый120 м2245 см",
+      "name": "Ситец (Фея) Суровый",
+      "description": "Ситец суровый",
+      "color": "",
+      "width": "245 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/sitecz-feya-surovyj-e1632385901321.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 95,
+    "fields": {
+      "article": "ситец (фея) суровыйситец суровый135 м2245 см",
+      "name": "Ситец (Фея) Суровый",
+      "description": "Ситец суровый",
+      "color": "",
+      "width": "245 см",
+      "composition": "",
+      "density": "135 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/sitecz-feya-surovyj-e1632385901321.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 96,
+    "fields": {
+      "article": "ситец (фея) суровыйситец суровый140 м2245 см",
+      "name": "Ситец (Фея) Суровый",
+      "description": "Ситец суровый",
+      "color": "",
+      "width": "245 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/sitecz-feya-surovyj-e1632385901321.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 97,
+    "fields": {
+      "article": "линейка бязевой группыбязь (ойдин) суровая140 м291 см",
+      "name": "Линейка бязевой группы",
+      "description": "Бязь (Ойдин) суровая",
+      "color": "",
+      "width": "91 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/takzhe-v-linejke-byazevoj-gruppy-2-e1632390705907.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 98,
+    "fields": {
+      "article": "линейка бязевой группыбязь (ойдин) с ротационной печатью140 м280 см",
+      "name": "Линейка бязевой группы",
+      "description": "Бязь (Ойдин) с ротационной печатью",
+      "color": "",
+      "width": "80 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/takzhe-v-linejke-byazevoj-gruppy-2-e1632390705907.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 99,
+    "fields": {
+      "article": "линейка бязевой группыбязь белоземельная120 м2150 см",
+      "name": "Линейка бязевой группы",
+      "description": "Бязь белоземельная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/takzhe-v-linejke-byazevoj-gruppy-2-e1632390705907.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 100,
+    "fields": {
+      "article": "линейка бязевой группыбязь с ротационной печатью120 м2150 см",
+      "name": "Линейка бязевой группы",
+      "description": "Бязь с ротационной печатью",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/takzhe-v-linejke-byazevoj-gruppy-2-e1632390705907.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 101,
+    "fields": {
+      "article": "линейка бязевой группыбязь гладкокрашенная:120 м2150 см",
+      "name": "Линейка бязевой группы",
+      "description": "Бязь гладкокрашенная:",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/takzhe-v-linejke-byazevoj-gruppy-2-e1632390705907.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 102,
+    "fields": {
+      "article": "линейка бязевой группыбязь (ойдин) суровая120 м291 см",
+      "name": "Линейка бязевой группы",
+      "description": "Бязь (Ойдин) суровая",
+      "color": "",
+      "width": "91 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/takzhe-v-linejke-byazevoj-gruppy-2-e1632390705907.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 103,
+    "fields": {
+      "article": "миткаль гладкокрашеннаямиткаль гладкокрашенная118 м2220 см",
+      "name": "Миткаль гладкокрашенная",
+      "description": "Миткаль гладкокрашенная",
+      "color": "",
+      "width": "220 см",
+      "composition": "",
+      "density": "118 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/mitkal-gladkokrashennaya-e1632379050893.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 104,
+    "fields": {
+      "article": "миткаль гладкокрашеннаямиткаль гладкокрашенная115 м2150 см",
+      "name": "Миткаль гладкокрашенная",
+      "description": "Миткаль гладкокрашенная",
+      "color": "",
+      "width": "150 см",
+      "composition": "",
+      "density": "115 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/mitkal-gladkokrashennaya-e1632379050893.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 105,
+    "fields": {
+      "article": "бязь суроваябязь суровая120 м2165 см",
+      "name": "Бязь суровая",
+      "description": "Бязь суровая",
+      "color": "",
+      "width": "165 см",
+      "composition": "",
+      "density": "120 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-surovaya-e1632374521122.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 106,
+    "fields": {
+      "article": "бязь суроваябязь суровая140 м2165 см",
+      "name": "Бязь суровая",
+      "description": "Бязь суровая",
+      "color": "",
+      "width": "165 см",
+      "composition": "",
+      "density": "140 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-surovaya-e1632374521122.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 107,
+    "fields": {
+      "article": "бязь суроваябязь суровая150 м2165 см",
+      "name": "Бязь суровая",
+      "description": "Бязь суровая",
+      "color": "",
+      "width": "165 см",
+      "composition": "",
+      "density": "150 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/byaz-surovaya-e1632374521122.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 108,
+    "fields": {
+      "article": "вафельное полотно ассортиментвафельное полотно отбеленное160 м280 см",
+      "name": "Вафельное полотно ассортимент",
+      "description": "Вафельное полотно отбеленное",
+      "color": "",
+      "width": "80 см",
+      "composition": "",
+      "density": "160 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/vafelnoe-polotno-assortiment-e1632375459135.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 109,
+    "fields": {
+      "article": "вафельное полотно ассортиментвафельное полотно белоземельное160 м280 см",
+      "name": "Вафельное полотно ассортимент",
+      "description": "Вафельное полотно белоземельное",
+      "color": "",
+      "width": "80 см",
+      "composition": "",
+      "density": "160 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/vafelnoe-polotno-assortiment-e1632375459135.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 110,
+    "fields": {
+      "article": "вафельное полотно ассортиментвафельное полотно гладкокрашенное160 м280 см",
+      "name": "Вафельное полотно ассортимент",
+      "description": "Вафельное полотно гладкокрашенное",
+      "color": "",
+      "width": "80 см",
+      "composition": "",
+      "density": "160 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/vafelnoe-polotno-assortiment-e1632375459135.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  },
+  {
+    "model": "clothes.cloth",
+    "pk": 111,
+    "fields": {
+      "article": "вафельное полотно ассортиментвафельное полотно гладкокрашенное светлый тон + цифровая ms печать160 м280 см",
+      "name": "Вафельное полотно ассортимент",
+      "description": "Вафельное полотно гладкокрашенное светлый тон + цифровая MS печать",
+      "color": "",
+      "width": "80 см",
+      "composition": "",
+      "density": "160 м2",
+      "length": "",
+      "country": "",
+      "image_url_1": "https://wp.tashtib-tex.uz/wp-content/uploads/2021/09/vafelnoe-polotno-assortiment-e1632375459135.png",
+      "image_url_2": null,
+      "image_url_3": null,
+      "image_url_4": null
+    }
+  }
+]

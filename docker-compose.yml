@@ -1,0 +1,23 @@
+services:
+  backend:
+    container_name: backend
+    build:
+      context: ./backend
+    ports:
+      - "8000:8000"
+    command: sh "startup.sh"
+    volumes:
+      - ./backend:/app/backend
+    restart: always
+    networks:
+      - shared-network
+    environment:
+      - DB_HOST=db
+      - DB_NAME=postgres
+      - DB_USER=postgres
+      - DB_PASS=uAqkgTDowYWt5H9
+      - DB_PORT=5432
+
+networks:
+  shared-network:
+    name: shared-network
